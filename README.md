@@ -3,7 +3,7 @@
 
 
 - 📚 Atualmente no 1° semestre da faculdade
-- 😜 Aprendendo Python e HTML
+- 😜 Aprendendo Python, HTML, JS, C# e MySQL
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuizPilotti&show_icons=true&theme=chartreuse-dark"/>

@@ -3,7 +3,7 @@
 
 
 - 📚 Atualmente no 2° semestre da faculdade
-- 😜 Python, HTML, JS e MySQL
+- 😜 Python, HTML, CSS, JS e MySQL
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuizPilotti&show_icons=true&theme=chartreuse-dark"/>

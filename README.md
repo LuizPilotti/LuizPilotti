@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente no 2° semestre da faculdade
+- 📚 Atualmente no 3° semestre da faculdade
 - 😜 Java, Python, HTML, CSS, JS e MySQL
 
 <div align="center">

@@ -1,6 +1,6 @@
 ## Olá! sou o Luiz Pilotti
 
-- 📚 Atualmente no 3º semestre da faculdade
+- 📚 Atualmente no 4º semestre da faculdade
 - 😜 Java, Python, JS, HTML, CSS e MySQL
 
 <div align="center">

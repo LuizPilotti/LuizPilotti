@@ -1,7 +1,7 @@
 ## Olá! sou o Luiz Pilotti
 
 - 📚 Atualmente no 4º semestre da faculdade
-- 😜 Java, Python, JS, HTML, CSS e MySQL
+- 😜 Java, Python, JS, C# e MySQL
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizPilotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
